@@ -1,9 +1,7 @@
 # Machine-Learning-Techniques-to-Forecast-Energy-Consumption-Indian-Context
 ## 📄 Research Paper [Read on SSRN] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5240257
 
-## India is the third-largest global energy consumer, with demand increasing rapidly due to industrialization, urbanization, and population growth. The country still depends heavily on fossil fuels, even though renewable energy adoption is rising. Variations in energy use across residential, commercial, and industrial sectors, along with peak demand periods, often cause supply shortages and blackouts.
-
-Accurate forecasting of energy consumption is crucial for ensuring energy security, optimizing grid management, and supporting sustainable development.
+## India is the third-largest global energy consumer, with demand increasing rapidly due to industrialization, urbanization, and population growth. The country still depends heavily on fossil fuels, even though renewable energy adoption is rising. Variations in energy use across residential, commercial, and industrial sectors, along with peak demand periods, often cause supply shortages and blackouts.Accurate forecasting of energy consumption is crucial for ensuring energy security, optimizing grid management, and supporting sustainable development.
 
 ## Research Objective
 
